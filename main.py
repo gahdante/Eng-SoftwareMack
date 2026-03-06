@@ -14,3 +14,7 @@ print('Hello Professor')
 print("versão 1.4 do código")
 
 print("Nelson")
+
+print('Teste 123')
+
+print('Ultimo Print')
